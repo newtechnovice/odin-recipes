@@ -15,3 +15,5 @@ GitHub Pages is designed to host personal, organization, or project pages from a
 2. Click on Pages on the left side bar.
 3. Change the Source from "none" to "main branch" and click Save.
 4. Project should be accessible over the web from the link given.
+
+Project link: https://newtechnovice.github.io/odin-recipes/
