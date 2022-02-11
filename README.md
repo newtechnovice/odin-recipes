@@ -8,7 +8,7 @@ This is a little project to put all the acquired HTML knowledge from TOP into pr
 - [x] Lists
 - [x] Links and Images
 
-## Viewing Your Project on the Web
+## Viewing Project on the Web
 GitHub Pages is designed to host personal, organization, or project pages from a GitHub repository.
 
 1. Go to GitHub repo on the web and click the Settings button.
