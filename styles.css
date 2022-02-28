@@ -1,0 +1,41 @@
+body {
+  background-color: #fbf8f1;
+  font-family: Garamond, "Times New Roman", Verdana;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+#link-color {
+  color: #54bab9;
+}
+
+.title {
+  font-size: 50px;
+}
+
+img {
+  width: auto;
+  height: 400px;
+}
+
+h1 {
+  color: rgb(104, 88, 62);
+}
+
+h2 {
+  color: rgb(163, 141, 103);
+}
+
+.github-button {
+  background-color: #cc9544;
+  color: azure;
+  border: none;
+  border-radius: 8px;
+  padding: 12px 28px;
+  text-align: center;
+}
+
+.github-button:hover {
+  box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24),
+    0 17px 70px 0 rgba(0, 0, 0, 0.19);
+}
